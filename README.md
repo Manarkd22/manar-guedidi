@@ -1,6 +1,6 @@
 # manar-guedidi
 <h1 align="center">Hi 👋, I'm Manar Guedidi</h1>
-<h3 align="center">Mobile & Web Developer | Software Engineering Student</h3>
+<h3 align="center">Mobile & Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Mobile+Developer;Full+Stack+Web+Developer;AI+Enthusiast;Always+Learning+New+Technologies" />
@@ -44,7 +44,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?usernameManarkd22&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manarkd22&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
