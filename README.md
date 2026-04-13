@@ -11,11 +11,12 @@
 ## 🚀 About Me
 
 - 🎓 Master's student in **Mobile Development Engineering** at **Higher Institute of Management of Gabes**
+- 🎓 Bachelor's Degree in Management Information Systems (Business Computing)
 - 💻 Software Development Bootcamp student at **GoMyCode**
 - 📱 Built **GoDelivery Mobile Application** during internship at **Ghomsoft**
 - 🌐 Developed **Art.Tn E-commerce Website** as Final Year Project
 - 🤖 Interested in **AI, Mobile Apps, and Full Stack Development**
-- 🌱 Currently improving my **React Native, Node.js, and AI integration skills**
+
 
 ---
 
