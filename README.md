@@ -1,4 +1,3 @@
-# manar-guedidi
 <h1 align="center">Hi 👋, I'm Manar Guedidi</h1>
 <h3 align="center">Mobile & Web Developer</h3>
 
