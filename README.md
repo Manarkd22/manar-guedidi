@@ -44,7 +44,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manarkd22&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?user=Manarkd22&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
