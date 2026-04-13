@@ -33,7 +33,7 @@
 ### 🚚 GoDelivery Mobile App
 - Delivery management mobile application
 - Built during internship at **Ghomsoft**
-- Technologies: React Native, Node.js
+- Technologies: React Native, Node.js , MongoDB , Express.js(Fastify)
 
 ### 🛒 Art.Tn E-commerce Website
 - Full e-commerce web platform
